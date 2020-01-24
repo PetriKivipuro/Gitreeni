@@ -7,4 +7,4 @@ tie
 öljy
 tänne lisää tekstiä
 ostolista
-kauppaaa
+Muistitko mennä kauppaaa
